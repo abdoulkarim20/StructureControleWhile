@@ -11,5 +11,12 @@ public class Tache5 {
             a=scanner.nextInt();
         }while (a<=0);
         System.out.println("Vous avez entrez "+a);
+        String controleNom="";
+        do{
+            System.out.println("L'entrez ne doit pas etre vide");
+            controleNom=scanner.nextLine();
+        }while(controleNom.length()==0);
+        System.out.println("Vous avez saisire: "+controleNom);
     }
+
 }
