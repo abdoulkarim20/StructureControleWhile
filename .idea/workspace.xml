@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e5d9a727-99d8-4d2a-86ac-31d358c3d5d7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Tache2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Tache3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/Tache4.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Atelier3/Tache2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Tache2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/Tache2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +25,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="27marn0QU6bsI5Us2xIgcG8XC7a" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -42,8 +46,8 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Tache2" />
+    <configuration name="Tache4" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Tache4" />
       <module name="Atelier3" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -60,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1649927915821</updated>
-      <workItem from="1649927919607" duration="1504000" />
+      <workItem from="1649927919607" duration="1814000" />
     </task>
     <servers />
   </component>
